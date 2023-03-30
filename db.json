@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Projeto Atualizado",
+      "budget": "1000",
+      "category": {
+        "id": "4",
+        "name": "Planning"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Projeto Bacana",
+      "budget": "4000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 2500,
+      "services": [
+        {
+          "name": "Divulgação em mídia",
+          "cost": "2500",
+          "description": "Será feita a divulgação por meio de mídias sociais.",
+          "id": "81c09935-3d1e-4f05-b890-46439d519991"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infrastructure"
+    },
+    {
+      "id": 2,
+      "name": "Development"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planning"
+    }
+  ]
+}
