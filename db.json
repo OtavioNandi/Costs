@@ -1,33 +1,52 @@
 {
   "projects": [
     {
-      "name": "Projeto Atualizado",
-      "budget": "1000",
-      "category": {
-        "id": "4",
-        "name": "Planning"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
       "name": "Projeto Bacana",
-      "budget": "4000",
+      "budget": "5600",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "cost": 2500,
+      "cost": 4800,
       "services": [
         {
-          "name": "Divulgação em mídia",
-          "cost": "2500",
-          "description": "Será feita a divulgação por meio de mídias sociais.",
-          "id": "81c09935-3d1e-4f05-b890-46439d519991"
+          "name": "Contratação do Designer",
+          "cost": "1500",
+          "description": "Precisa de um designer obviamente",
+          "id": "b41a7fc9-7bef-4a4b-b7aa-9eee2a26faf5"
+        },
+        {
+          "name": "Aquisição de Softwares",
+          "cost": "300",
+          "description": "Compra de licenças dos softwares necessários.",
+          "id": "edf1d7c9-bf3b-467e-93ca-c661a3779449"
+        },
+        {
+          "name": "Divulgação do projto em mídias sociais",
+          "cost": "3000",
+          "description": "O projeto precisa ser divulgado em mídias sociais",
+          "id": "ec165a5b-92de-42f2-8172-5b4011f5ceac"
         }
       ],
       "id": 2
+    },
+    {
+      "name": "Projeto Doido",
+      "budget": "40000",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Divulgação",
+          "cost": "5000",
+          "description": "Divulgação do projeto doido.",
+          "id": "d424af0d-467a-4d10-986f-7d5b15472009"
+        }
+      ],
+      "id": 3
     }
   ],
   "categories": [
